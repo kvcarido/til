@@ -7,7 +7,6 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 _1 TIL and counting..._
 
----
 
 ## Categories
 
