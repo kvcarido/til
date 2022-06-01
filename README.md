@@ -11,7 +11,7 @@ _1 TIL and counting..._
 
 ---
 
-### Categories
+## Categories
 
 * [JavaScript](#javascript)
 
@@ -19,3 +19,10 @@ _1 TIL and counting..._
 
 ### JavaScript
 - [Getters and Setters with Objects](javascript/getters-and-setters-with-objects.md)
+
+---
+
+### 🚧 Road Map
+- [ ] Research potential automation when posting, (use `git-hooks`?)
+- [ ] Write Hashnode blog about inspiration + differences
+- [ ] Figure out a name for these posts / entries / tidbits?
