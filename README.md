@@ -1,11 +1,11 @@
 # Today I Learned
 
 A collection of concise write-ups on small things I learn day to day across a
-variety of languages and technologies. In my attempts to build a second brain and overall commitment to [Learning in Public](https://www.swyx.io/learn-in-public/), these short-form notes are the bits of information that don't warranty a full blog write-up yet still handy to reference.s
+variety of languages and technologies. In my attempts to build a second brain and overall commitment to [Learning in Public](https://www.swyx.io/learn-in-public/), these short-form notes are the bits of information that don't warranty a full blog write-up yet are still handy to reference.
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_1 TIL and counting..._
+_2 TIL and counting..._
 
 
 ## Categories
@@ -16,6 +16,7 @@ _1 TIL and counting..._
 
 ### JavaScript
 - [Getters and Setters with Objects](javascript/getters-and-setters-with-objects.md)
+- [Working with arr.sort() Method](javascript/working-with-sort.md)
 
 ---
 
