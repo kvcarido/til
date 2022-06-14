@@ -24,4 +24,4 @@ _3 TIL and counting..._
 ### 🚧 Road Map
 - [ ] Research potential automation when posting, (use `git-hooks`?)
 - [ ] Write Hashnode blog about inspiration + differences
-- [ ] Figure out a name for these posts / entries / tidbits?
+- [x] Figure out a name for these posts / entries / tidbits?
