@@ -5,12 +5,13 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_5 TIL and counting..._
+_6 TIL and counting..._
 
 
 ## Categories
 
 * [JavaScript](#javascript)
+* [Git](#git)
 
 ---
 
@@ -20,6 +21,9 @@ _5 TIL and counting..._
 - [Using the Set Object](javascript/using-the-set-object.md)
 - [Destructuring Assignment](javascript/destructuring-assignment.md)
 - [Spread Operator](javascript/spread-operator.md)
+
+### Git
+- [Editing Commits with --amend](git/editing-commits-with-amend.md)
 
 ---
 
