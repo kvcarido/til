@@ -5,7 +5,7 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_3 TIL and counting..._
+_5 TIL and counting..._
 
 
 ## Categories
@@ -18,6 +18,8 @@ _3 TIL and counting..._
 - [Getters and Setters with Objects](javascript/getters-and-setters-with-objects.md)
 - [Working with arr.sort() Method](javascript/working-with-sort.md)
 - [Using the Set Object](javascript/using-the-set-object.md)
+- [Destructuring Assignment](javascript/destructuring-assignment.md)
+- [Spread Operator](javascript/spread-operator.md)
 
 ---
 
