@@ -13,3 +13,6 @@ console.log(b) // b
 
 console.log(rest) // [30, 40, 50]
 ```
+
+*To be continued...*
+[GfG: Destructuring Assignment in JS](https://www.geeksforgeeks.org/destructuring-assignment-in-javascript)
