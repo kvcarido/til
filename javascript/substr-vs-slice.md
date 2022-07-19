@@ -30,8 +30,8 @@ const phrase = "Queens get the money"
 // "get the money"
 ```
 
-#### TL;DR
+### TL;DR
 
 When in doubt, use `String.slice()` to avoid confusion. 
 
-Based on my surface-level research between the two, `String.substr()` is deprecated, and you can't go wrong with creating a copy instead of modifying the original variable. 
+Based on my surface-level research between the two, `String.substr()` is considered a legacy feature, therefore not recommended to use. Instead, the updated method would be `String.substring()`. The biggest difference between `String.substring()` and `String.slice()` is [the way negative arguments are dealt with](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring#differences_between_substring_and_slice).
