@@ -12,7 +12,7 @@ If you want to create a new branch based on an existing one, add another paramet
 $ git branch <new-branch> <base-branch>
 ```
 
-To publish your new local branch, you'll want to publish it to your remote repository in order to share your work. 
+To publish your new local branch, you'll want to push it to your remote repository in order to share your work. 
 
 ```git
 $ git push -u origin <local-branch>
