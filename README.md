@@ -5,7 +5,7 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_7 TIL and counting..._
+_8 TIL and counting..._
 
 
 ## Categories
@@ -25,6 +25,7 @@ _7 TIL and counting..._
 
 ### Git
 - [Editing Commits with --amend](git/editing-commits-with-amend.md)
+- [Working with a New Branch](git/working-with-a-new-branch.md)
 
 ---
 
