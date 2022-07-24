@@ -5,13 +5,14 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_8 TIL and counting..._
+_9 TIL and counting..._
 
 
 ## Categories
 
 * [JavaScript](#javascript)
 * [Git](#git)
+* [APIs](#apis)
 
 ---
 
@@ -27,9 +28,12 @@ _8 TIL and counting..._
 - [Editing Commits with --amend](git/editing-commits-with-amend.md)
 - [Working with a New Branch](git/working-with-a-new-branch.md)
 
+### APIs
+- [Adding Headers to a Fetch Request](apis/adding-headers-to-fetch-request.md)
+
 ---
 
 ### 🚧 Road Map
 - [ ] Research potential automation when posting, (use `git-hooks`?)
-- [ ] Write Hashnode blog about inspiration + differences
+- [x] Write Hashnode blog about inspiration + differences
 - [x] Figure out a name for these posts / entries / tidbits?
