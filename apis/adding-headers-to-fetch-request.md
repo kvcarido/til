@@ -22,4 +22,4 @@ fetch (url, {
 
 The `fetch` method accepts [two parameters](https://developer.mozilla.org/en-US/docs/Web/API/fetch#parameters), a `resource` (typically the API url) and a few `options`.
 
-The `options` parameter is an object containing any custom settings that you want to apply to the request. In the example above, I'm including the header `X-API-KEY` with the value of `key`, a string variable containing my API key.
+The `options` parameter is an object containing any custom settings that you want to apply to the request. In the example above, I'm including the header object containing `X-API-KEY` with the value of `key`, a string variable containing my API key.
