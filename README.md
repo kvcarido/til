@@ -5,7 +5,7 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_9 TIL and counting..._
+_10 TIL and counting..._
 
 
 ## Categories
@@ -13,6 +13,8 @@ _9 TIL and counting..._
 * [JavaScript](#javascript)
 * [Git](#git)
 * [APIs](#apis)
+* [PowerShell](#powershell)
+* [SQL](#sql)
 
 ---
 
@@ -30,6 +32,13 @@ _9 TIL and counting..._
 
 ### APIs
 - [Adding Headers to a Fetch Request](apis/adding-headers-to-fetch-request.md)
+
+### PowerShell
+- [Working with Users in Batch](powershell/working-with-users-in-batch.md)
+
+### SQL
+- _Coming soon..._
+
 
 ---
 
