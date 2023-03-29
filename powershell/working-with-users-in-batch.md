@@ -1,4 +1,4 @@
-# Edit Users in Batch
+# Working with Users in Batch
 
 One of the ongoing projects I've been involved in at work is standardizing the way departments and titles appear in our Microsoft 365 organization. With the agency scaling a bit more every year, I was tasked with updating all existing users’ titles and department information to syntactically match our new set of standards.
 
@@ -19,8 +19,10 @@ By default, PowerShell has a safety feature to prevent accidental execution of d
 
 ### Add users to a group
 
-Aside from updating user information
+Aside from updating user information, another reoccurring task is adding users to a mail-enabled security group. It uses the same `ForEach-Object` and `Import-Csv` cmdlets, with the addition of the `Add-DistributionGroupMember` cmdlet.
 
 ```powershell
 Import-Csv "/path/to/users.csv" | ForEach-Object { Add-DistributionGroupMember -Identity "group@company.com" -Member $_.UserPrincipalName -BypassSecurityGroupManagerCheck }
 ```
+
+Here the script will add all users in the CSV file to the mail-enabled security group using the `-Identity` parameter. The addition of `-BypassSecurityGroupManagerCheck` suppresses the confirmation prompt.
