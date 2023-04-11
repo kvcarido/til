@@ -5,7 +5,7 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_10 TIL and counting..._
+_11 TIL and counting..._
 
 
 ## Categories
@@ -35,6 +35,7 @@ _10 TIL and counting..._
 
 ### PowerShell
 - [Working with Users in Batch](powershell/working-with-users-in-batch.md)
+- [Delete an Email Containing PII](powershell/delete-an-email-containing-pii.md)
 
 ### SQL
 - _Coming soon..._
