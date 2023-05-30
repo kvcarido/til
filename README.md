@@ -5,7 +5,7 @@ variety of languages and technologies. In my attempts to build a second brain an
 
 > 🌟 The original format and inspiration behind this style of note-taking is from [jbranchaud](https://github.com/jbranchaud/til)
 
-_11 TIL and counting..._
+_12 TIL and counting..._
 
 
 ## Categories
@@ -15,6 +15,7 @@ _11 TIL and counting..._
 * [APIs](#apis)
 * [PowerShell](#powershell)
 * [SQL](#sql)
+* [Excel](#excel)
 
 ---
 
@@ -40,7 +41,8 @@ _11 TIL and counting..._
 ### SQL
 - _Coming soon..._
 
-
+### Excel
+- [Removing the First Character in a Column](excel/remove-first-character.md)
 ---
 
 ### 🚧 Road Map
